@@ -7,7 +7,7 @@ Welcome to |project| documentation!
    history
 
 
-.. automodule:: skeleton
+.. automodule:: setuptools_hacks.bypass_summary_newline
     :members:
     :undoc-members:
     :show-inheritance:
