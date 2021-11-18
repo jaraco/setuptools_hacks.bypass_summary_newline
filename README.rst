@@ -19,3 +19,6 @@
 
 .. image:: https://img.shields.io/badge/skeleton-2021-informational
    :target: https://blog.jaraco.com/skeleton
+
+
+Setuptools plugin that works around the failure when a package's Summary (aka description) may contain a newline. Install this alongside setuptools to bypass the error for this invalid input in legacy environments.
